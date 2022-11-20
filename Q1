@@ -149,3 +149,11 @@ int main()
     printf(" Result: %d", pop(&s1));
     return 0;
 }
+
+
+
+
+
+OUTPUT
+Enter the infix expression: 3+2*5
+Postfix expression: 325*+  Result: 13
